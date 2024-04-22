@@ -1,4 +1,4 @@
-# sql-challenge
+# Analyzing Historical Employee Data with SQL
 
 # Summary
 
